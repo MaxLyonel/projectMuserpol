@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "nombre": "leonel",
+        "paterno": "vargas",
+        "materno": "ramirez",
+        "genero": "masculino",
+        "nacionalidad": "boliviano"
+    },{
+        "id": "2",
+        "nombre": "blanca",
+        "paterno": "kintalla",
+        "materno": "flores",
+        "genero": "femenino",
+        "nacionalidad":"boliviana"
+    },{
+        "id": "3",
+        "nombre": "leandro",
+        "paterno": "torrez",
+        "materno": "lopez",
+        "genero": "masculino",
+        "nacionalidad": "boliviano"
+    }, {
+        "id": "4",
+        "nombre": "José",
+        "paterno": "quenta",
+        "materno": "perales",
+        "genero": "masculino",
+        "nacionalidad": "boliviano"
+    }
+]
