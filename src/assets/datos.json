@@ -23,8 +23,8 @@
     }, {
         "id": "4",
         "nombre": "José",
-        "paterno": "quenta",
-        "materno": "perales",
+        "paterno": "Flores",
+        "materno": "Quisbert",
         "genero": "masculino",
         "nacionalidad": "boliviano"
     }
