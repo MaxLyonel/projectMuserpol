@@ -10,21 +10,21 @@
         "id": "2",
         "nombre": "Blanca",
         "paterno": "Quispe",
-        "materno": "flores",
+        "materno": "Pari",
         "genero": "femenino",
         "nacionalidad":"boliviana"
     },{
         "id": "3",
-        "nombre": "leandro",
+        "nombre": "leandroerwwer",
         "paterno": "torrez",
         "materno": "lopez",
         "genero": "masculino",
         "nacionalidad": "boliviano"
     }, {
         "id": "4",
-        "nombre": "Joséeeeppppp",
-        "paterno": "quenta",
-        "materno": "perales",
+        "nombre": "José",
+        "paterno": "Flores",
+        "materno": "Quisbert",
         "genero": "masculino",
         "nacionalidad": "boliviano"
     }
