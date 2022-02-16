@@ -28,5 +28,13 @@
         "genero": "masculino",
         "nacionalidad": "boliviano"
     }
+    , {
+        "id": "5",
+        "nombre": "Issue",
+        "paterno": "Flores",
+        "materno": "Quisbert",
+        "genero": "masculino",
+        "nacionalidad": "boliviano"
+    }
 ]
 
