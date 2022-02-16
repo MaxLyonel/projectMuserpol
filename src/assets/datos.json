@@ -2,8 +2,8 @@
     {
         "id": "1",
         "nombre": "Leeonel",
-        "paterno": "VVVVVVvargas",
-        "materno": "ramirez",
+        "paterno": "Vargas",
+        "materno": "Ramirez",
         "genero": "masculino",
         "nacionalidad": "boliviano"
     },{
@@ -23,6 +23,14 @@
     }, {
         "id": "4",
         "nombre": "José",
+        "paterno": "Flores",
+        "materno": "Quisbert",
+        "genero": "masculino",
+        "nacionalidad": "boliviano"
+    }
+    , {
+        "id": "5",
+        "nombre": "Issue",
         "paterno": "Flores",
         "materno": "Quisbert",
         "genero": "masculino",
