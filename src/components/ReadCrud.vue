@@ -10,6 +10,7 @@
               <td>materno</td>
               <td>genero</td>
               <td>nacionalidad</td>
+             
             </tr>
           </thead>
           <tbody>
