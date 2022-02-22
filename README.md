@@ -30,7 +30,7 @@ cd PVT-BACKEND
 
 ```txt
 -   "php": "^7.3|^8.0",
-+   "php": "^7.3|`8.1",
++   "php": "^7.3|^8.1",
 ```
 
 - Instalar dependencias del proyecto con *Composer*
